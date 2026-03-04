@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShahG.Utilities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb7668366429e7ea95ca79abce9140a60318bf17")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShahG.Utilities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShahG.Utilities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
