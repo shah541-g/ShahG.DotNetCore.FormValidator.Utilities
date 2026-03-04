@@ -1,0 +1,11 @@
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\bin\Debug\net8.0\ShahG.Utilities.deps.json
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\bin\Debug\net8.0\ShahG.Utilities.dll
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\bin\Debug\net8.0\ShahG.Utilities.pdb
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ShahG.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ShahG.Utilities.AssemblyInfoInputs.cache
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ShahG.Utilities.AssemblyInfo.cs
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ShahG.Utilities.csproj.CoreCompileInputs.cache
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ShahG.Utilities.dll
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\refint\ShahG.Utilities.dll
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ShahG.Utilities.pdb
+D:\University\Semesters\8th Semester\EAD\Before Mid\Code\Day 2 Practice\ShahG.Utilities\ShahG.Utilities\obj\Debug\net8.0\ref\ShahG.Utilities.dll
